@@ -1,0 +1,8 @@
+﻿  SUVAT-sim.cpp
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(11,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(39,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(39,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(45,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\SUVAT-sim\SUVAT-sim.cpp(45,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SUVAT-sim.vcxproj -> C:\Users\charl\Desktop\SUVAT-sim\SUVAT-sim\x64\Debug\SUVAT-sim.exe
